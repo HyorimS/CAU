@@ -1,5 +1,5 @@
 def hello():
-    print("Hello, Hyorim! Good to see you.")
+    print("Hello, Hyorim! Nice to see you.")
 
 
 hello()
